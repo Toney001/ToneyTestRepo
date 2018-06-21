@@ -1,9 +1,5 @@
 # Introducing PowerApps
-Welcome to  **Guided Learning**  for **Microsoft PowerApps**. This self-paced online course explains PowerApps in a sequential way, so you can build your knowledge from the ground up.
-
-This  **Guided Learning**  course contains many sections, and each section has many topics. The course is designed to provide guidance in understandable chunks, with a logical flow that helps you learn concepts, see details, and walk through examples. It includes lots of visuals to help you learn, too.
-
-If you're a  **beginner**  with PowerApps this course gets you going, and if you're familiar with PowerApps this course ties concepts together, and fills in the gaps. We hope you enjoy the course, and we look forward to including more content in the future.
+Welcome to Microsoft PowerApps. If you're new to PowerApps this course gets you going. If you've a seasoned PowerApps developer, you'll grow you're knowledge. 
 
 ## What is PowerApps?
 **PowerApps** is a collection of software services and apps that work together to fundamentally transform and accelerate how you build and share custom line of business applications.
