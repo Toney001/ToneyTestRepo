@@ -6,13 +6,15 @@ Powerapps are business applications that live in a browser or on your phone or t
 
 When your done building an app, you can instantly publish it to the web or make them availalbe on iOS, Android, or Windows devices to share throughout your organization or in the field.
 
-Powerapps work the way you do, whether you're a mobile worker in the field or a doctor in a busy hospital. 
+Powerapps work the way you do, whether you're a mobile worker in the field or a doctor in a busy hospital.
+
+**Video**
 
 -Service, Excel Common data service, and a host of others.
--Limitations or overhead
+-Limitations or overhead in main body
 
 ## Parts of PowerApps
-
+--Excel is online only
 
 
 ## Great! Where do I start?
