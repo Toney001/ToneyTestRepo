@@ -3,7 +3,6 @@ Powerapps are business applications that live in a browser or on your phone or t
 - **Simple to build**:
 - **Easy to share**:
 - **keeps you connected**:
-
 When your done building an app, you can instantly publish it to the web or make them availalbe on iOS, Android, or Windows devices to share throughout your organization or in the field.
 
 Powerapps work the way you do, whether you're a mobile worker in the field or a doctor in a busy hospital. 
@@ -12,7 +11,7 @@ Powerapps work the way you do, whether you're a mobile worker in the field or a 
 
 
 
-## Great! How do I get started?
+## Great! Where do I start?
 
 
 And when you're done building, you can easily share them throughout your organizaion or in the field.
