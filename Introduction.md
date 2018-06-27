@@ -1,17 +1,24 @@
 # What are PowerApps?
 Powerapps are business applications that live in a browser or on your phone or tablet. Very little or no coding experience is needed bacause PowerApps connect to the cloud services and data sources your're already using. Excel, Common data service, and a host of others.
 - **Simple to build**:
-- **Easy to share**:
-- **keeps you connected**:
+- **Easy to share**: Once you build an app, sharing it is as simple as selecting email names and clicking a button.
+- **keeps you connected**: 
+
 When your done building an app, you can instantly publish it to the web or make them availalbe on iOS, Android, or Windows devices to share throughout your organization or in the field.
 
 Powerapps work the way you do, whether you're a mobile worker in the field or a doctor in a busy hospital. 
+
+-Service, Excel Common data service, and a host of others.
+-Limitations or overhead
 
 ## Parts of PowerApps
 
 
 
 ## Great! Where do I start?
+
+## Next steps
+Now that you have an overview of this course, what PowerApps is, and its main elements, in the next topic we will look more closely at each PowerApps component.
 
 
 And when you're done building, you can easily share them throughout your organizaion or in the field.
