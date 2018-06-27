@@ -1,12 +1,17 @@
 # What are PowerApps?
-Powerapps are business applications that live in a browser or on your phone or tablet. Very little or no coding experience is needed bacause PowerApps connect to the cloud services and data sources your're already using.
-
-When your done building an app, you can instantly publish them to iOS, Android, Windows, and the web to share throughout your organization or in the field.
+Powerapps are business applications that live in a browser or on your phone or tablet. Very little or no coding experience is needed bacause PowerApps connect to the cloud services and data sources your're already using. Excel, Common data service, and a host of others.
+- **Simple to build**:
+- **Easy to share**:
+- **keeps you connected**:
+When your done building an app, you can instantly publish it to the web or make them availalbe on iOS, Android, or Windows devices to share throughout your organization or in the field.
 
 Powerapps work the way you do, whether you're a mobile worker in the field or a doctor in a busy hospital. 
 
+## Parts of PowerApps
 
 
+
+## Great! How do I get started?
 
 
 And when you're done building, you can easily share them throughout your organizaion or in the field.
