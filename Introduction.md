@@ -1,4 +1,4 @@
-# Introducing PowerApps
+# What are PowerApps
 Welcome to Microsoft PowerApps. If you're new to PowerApps this course gets you going. If you've a seasoned PowerApps developer, you'll grow you're knowledge. 
 
 ## What is PowerApps?
