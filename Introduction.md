@@ -17,10 +17,16 @@ This self-paced online course explains Power BI in a sequential way, so you can 
 -Service, Excel Common data service, and a host of others.
 -Limitations or overhead in main body
 
-## Parts of PowerApps
+## The building blocks of PowerApps
 Power BI is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent, visually immersive, and interactive insights. Whether your data is a simple Excel spreadsheet, or a collection of cloud-based and on-premises hybrid data warehouses, Power BI lets you easily connect to your data sources, visualize (or discover) what’s important, and share that with anyone or everyone you want.
 
 Power BI can be simple and fast – capable of creating quick insights from an Excel spreadsheet or a local database. But Power BI is also robust and enterprise-grade, ready for extensive modeling and real-time analytics, as well as custom development. So it can be your personal report and visualization tool, and can also serve as the analytics and decision engine behind group projects, divisions, or entire corporations.
+
+Power BI consists of a Windows desktop application called Power BI Desktop, an online SaaS (Software as a Service) service called the Power BI service, and mobile Power BI apps available on Windows phones and tablets, as well as for iOS and Android devices.
+
+**art**
+
+These three elements – the Desktop, the service, and Mobile – are designed to let people create, share, and consume business insights in the way that serves them, or their role, most effectively.
 
 --Excel is online only
 
