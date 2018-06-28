@@ -10,6 +10,8 @@ Powerapps work the way you do, whether you're a mobile worker in the field or a 
 
 Business users can easily install these apps from Microsoft AppSource. Once installed, they can access via the PowerApps web portal or their iOS, Android, or Windows devices. They can easily find and return to your content because it’s all in one place. They get all your updates automatically and you can control how frequently the data refreshes.
 
+This self-paced online course explains Power BI in a sequential way, so you can build your knowledge from the ground up.
+
 **Video**
 
 -Service, Excel Common data service, and a host of others.
