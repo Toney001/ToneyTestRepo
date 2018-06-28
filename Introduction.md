@@ -8,6 +8,8 @@ When your done building an app, you can instantly publish it to the web or make 
 
 Powerapps work the way you do, whether you're a mobile worker in the field or a doctor in a busy hospital.
 
+Business users can easily install these apps from Microsoft AppSource. Once installed, they can access via the PowerApps web portal or their iOS, Android, or Windows devices. They can easily find and return to your content because it’s all in one place. They get all your updates automatically and you can control how frequently the data refreshes.
+
 **Video**
 
 -Service, Excel Common data service, and a host of others.
