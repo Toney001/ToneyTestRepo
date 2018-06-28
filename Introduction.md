@@ -12,6 +12,7 @@ Business users can easily install these apps from Microsoft AppSource. Once inst
 
 This self-paced online course explains Power BI in a sequential way, so you can build your knowledge from the ground up.
 
+
 **Video**
 
 -Service, Excel Common data service, and a host of others.
