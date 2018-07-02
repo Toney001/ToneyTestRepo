@@ -12,6 +12,12 @@ Business users can easily install these apps from Microsoft AppSource. Once inst
 
 This self-paced online course explains Power BI in a sequential way, so you can build your knowledge from the ground up.
 
+-I am always on the go, I need to remain productive no matter where I am or what device I am using.
+-As a seller I need help improving deal quality and accelerating deals through the sales cycle
+-**My unique business processes are tailored into purpose built apps which enable us to have a competitive advantage 
+
+
+
 
 
 **Video**
